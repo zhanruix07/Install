@@ -36,7 +36,7 @@ dpkg -l libcudnn8
 dpkg -l | grep nvinfer
 ```
 
-## 2. 安装所需工具，vscode；conda
+## 2. 安装所需工具，vscode & conda
 
 ### VScode
 
